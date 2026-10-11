@@ -10,9 +10,9 @@ The notebooks run on the **EPO Technology Intelligence Platform (TIP)** and use 
 
 | # | Notebook | What you learn | PW step | Time |
 |---|---|---|---|---|
-| 00 | [TIP platform](tutorial_0/00_tip_platform.ipynb) | JupyterLab on TIP, terminal, resource limits, available data | – | 15 min |
-| 01 | [PATSTAT basics](tutorial_0/01_patstat_basics.ipynb) | PATSTAT schema, ORM and raw SQL queries, building a sector dataset | Step 0 · data collection | 60–90 min |
-| 02 | [General description of the sector](tutorial_0/02_step1_general_description.ipynb) | Families vs applications, which year to use, growth, technology mix, geography | Step 1 · general description | 60–90 min |
+| 00 | [TIP platform](tutorial_0/00_tip_platform.ipynb) | JupyterLab on TIP, terminal, resource limits, available data | basic knowledge | 15 min |
+| 01 | [PATSTAT basics](tutorial_0/01_patstat_basics.ipynb) | PATSTAT schema, ORM and raw SQL queries, building a sector dataset | Step 0 · data collection | 30 min |
+| 02 | [General description of the sector](tutorial_0/02_step1_general_description.ipynb) | Families vs applications, which year to use, growth, technology mix, geography | Step 1 · general description | 30 min |
 
 Work through them **in order**: each notebook builds on the previous one.
 
